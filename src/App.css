@@ -1,0 +1,12 @@
+.login-page-bg {
+  background-image: url('./assets/img/login.jpg'); background-size: cover; background-position: top center;
+}
+
+.login-footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 99999;
+  color: #fff;
+}
